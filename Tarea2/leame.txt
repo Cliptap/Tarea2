@@ -12,7 +12,7 @@ Este sistema permite administrar y aplicar una prueba cuyos ítems están catego
 Requisitos
 - IntelliJ IDEA (versión 2024 o superior)
 - JDK 23 correctamente configurado
-- Proyecto abierto como Proyecto IntelliJ existente (no como carpeta sola)
+- Proyecto abierto como Proyecto IntelliJ existente
 
 Estructura del Proyecto
 - "/src/backend/": lógica de aplicación (Evaluacion, Pregunta, etc.)
