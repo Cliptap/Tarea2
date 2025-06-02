@@ -1,0 +1,10 @@
+¿En qué año comenzó la Segunda Guerra Mundial?;RECORDAR;OPCION_MULTIPLE;1939,1945,1914,1929;A;20
+El agua hierve a 100 grados Celsius.;RECORDAR;VERDADERO_FALSO;;true;10
+Resume brevemente el propósito del manifiesto comunista.;ENTENDER;OPCION_MULTIPLE;Exponer ideas socialistas,Defender el capitalismo,Enseñar historia romana,Hablar sobre religión;A;25
+El ser humano necesita oxígeno para vivir.;ENTENDER;VERDADERO_FALSO;;true;10
+¿Cuánto es (8 + 2) * 5?;APLICAR;OPCION_MULTIPLE;40,50,30,45;B;15
+El fuego puede generarse al frotar piedras.;APLICAR;VERDADERO_FALSO;;true;10
+¿Cuál de estas opciones representa un argumento más sólido?;ANALIZAR;OPCION_MULTIPLE;Porque lo digo yo,Según estudios científicos,Me parece,Un amigo lo mencionó;B;20
+Los animales racionales no son humanos.;ANALIZAR;VERDADERO_FALSO;;false;12
+Evalúa esta afirmación: “Las redes sociales solo generan daño”.;EVALUAR;OPCION_MULTIPLE;Totalmente cierto,Depende del uso,No tiene sentido,Siempre positivo;B;25
+La inteligencia artificial debería ser limitada por ley.;CREAR;VERDADERO_FALSO;;true;20
